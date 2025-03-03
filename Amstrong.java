@@ -1,4 +1,4 @@
-
+//Amstrong Number
 import java.util.Scanner;
 
 public class Amstrong {
@@ -33,3 +33,4 @@ public class Amstrong {
         Arms(n);
     }
 }
+
