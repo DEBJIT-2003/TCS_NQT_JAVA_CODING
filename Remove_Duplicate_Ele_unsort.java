@@ -19,7 +19,8 @@ public class Remove_Duplicate_Ele_unsort {
     public static void Duplicate(int a[],int n)
     {
       //  if (n == 0) return 0;
-      int f=0,c=0;
+      int f=0; 
+      int c=0;
       for(int i=0;i<n;i++)
       {
         f=0;
